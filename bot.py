@@ -1,7 +1,4 @@
-"""
-Purple Digital Store - ငွေဖြည့် Bot (📊 ဖယ်ပြီး | ငွေပမာဏ + Screenshot လက်ခံနိုင်)
-python-telegram-bot==21.6
-"""
+
 
 import sqlite3
 import random
@@ -205,3 +202,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
